@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 han merhaba
+=======
+merhaba dünya
+
+
+herkese günaydın!
+>>>>>>> dev_black_cloud
